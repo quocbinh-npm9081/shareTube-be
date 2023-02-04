@@ -1,2 +1,3 @@
 console.log('hello');
-const a = '11sad11111';
+const a = 'test6';
+console.log(a);
