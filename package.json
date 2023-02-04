@@ -24,7 +24,7 @@
     "typescript": "^4.9.5"
   },
   "lint-staged": {
-    "**/*/{ts,tsx}": [
+    "**/*/.{ts,tsx}": [
       "npx eslint 'src/**' --fix",
       "npx prettier --check 'src/**'"
     ]
