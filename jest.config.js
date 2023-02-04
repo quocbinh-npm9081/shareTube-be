@@ -6,7 +6,7 @@ module.exports = {
   collectCoverageFrom: ['<rootDir>/src/**/*.ts'],
   coverageDirectory: 'coverage',
   testEnvironment: 'node',
-  //   moduleNameMapper: {
-  //     '0/(.*)': '<rootDir>/src/$l',
-  //   },
+  moduleNameMapper: {
+    '0/(.*)': '<rootDir>/src/$l',
+  },
 };
