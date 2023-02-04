@@ -1,6 +1,6 @@
 class Person {
   sayMyName() {
-    return 'Binh test';
+    return 'Binh test1';
   }
 }
 export default Person;
