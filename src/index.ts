@@ -1,3 +1,6 @@
-console.log('hello');
-const a = 'test6';
-console.log(a);
+class Person {
+  sayMyName() {
+    return 'Binh test';
+  }
+}
+export default Person;

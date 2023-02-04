@@ -1,3 +1,6 @@
+import Person from '.';
+
 it('should sum', () => {
-  expect(2 + 2).toBe(4);
+  const people = new Person();
+  expect(people.sayMyName()).toBe('Binh test');
 });
