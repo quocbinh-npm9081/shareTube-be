@@ -34,7 +34,7 @@
     "**/*.{ts,tsx}": [
       "npx eslint 'src/**' --fix",
       "npx prettier --write 'src/**'",
-      "npm run test:staged"
+      "yarn test:staged"
     ]
   }
 }
