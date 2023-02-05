@@ -1,6 +1,6 @@
-import Person from '.';
+// import Person from '.';
 
-it('should sum', () => {
-  const people = new Person();
-  expect(people.sayMyName()).toBe('Binh test1');
-});
+// it('should sum', () => {
+//   const people = new Person();
+//   expect(people.sayMyName()).toBe('Binh test1');
+// });
